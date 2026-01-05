@@ -1,0 +1,4 @@
+/* basic */
+body{font-family:Arial,Helvetica,sans-serif;margin:20px}
+header,nav,main,footer{padding:10px}
+nav a{margin-right:12px;text-decoration:none}
